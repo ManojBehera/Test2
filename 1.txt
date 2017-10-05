@@ -3,3 +3,5 @@
 added this line from terminal after cloning
 
 added one more line from github
+
+yes this line is from terminal again after git pull
